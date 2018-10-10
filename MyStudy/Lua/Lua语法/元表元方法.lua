@@ -1,0 +1,3 @@
+a.如果__newindex是一个函数，则在给table不存在的字段赋值时，会调用这个函数。
+b.如果__newindex是一个table，则在给table不存在的字段赋值时，会直接给__newindex的table赋值。
+
