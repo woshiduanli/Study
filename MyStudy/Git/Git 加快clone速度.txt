@@ -1,5 +1,8 @@
 
 
+查找某个网站的ip地址   ping 网站地址
+比如   ping www.baidu.com
+
 Windows下在C:/Windows/system32/drivers/etc/hosts
 Ubuntu等linux系一般在/etc/hosts
 在hosts中添加如下内容：
