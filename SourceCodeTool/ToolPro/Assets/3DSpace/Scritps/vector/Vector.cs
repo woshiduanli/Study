@@ -37,6 +37,7 @@ public class Vector
     /// <returns></returns>
     public static Vector3 OnPostRender(Vector3 curPos, Vector3 endPos, float radius)
     {
+        // 这里是 endpos位置的东西， 画向 curpos，箭头，在前， 就是curpos在前，endpos在后
         Vector3 v = (curPos - endPos).normalized;
         v = Quaternion.Euler(0, UnityEngine.Random.Range(-90, 90), 0) * v;
         Vector3 pos = v * radius;
