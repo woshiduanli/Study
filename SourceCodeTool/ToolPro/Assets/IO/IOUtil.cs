@@ -7,9 +7,32 @@ using System;
 public class IOUtil
 {
     /// <summary>
-    /// 读取文本文件
+    ///获取 路径中的文件名字
     /// </summary>
-    /// <param name="filePath"></param>
+    /// <param name="path"></param>
+    /// <returns></returns>
+    public static string GetFileName(string path)
+    {
+        string fileName = path;
+        int lastIndex = path.LastIndexOf('/');
+        if (lastIndex > -1)
+        {
+            fileName = fileName.Substring(lastIndex + 1);
+        }
+
+    lastIndex = fileName.LastIndexOf('.');
+        if (lastIndex > -1)
+        {
+            fileName = fileName.Substring(0, lastIndex);
+        }
+
+        return fileName;
+    }
+
+    /// <summary>
+    /// 传入文本文件的地址， 返回这个文本文本的文本内容
+    /// </summary>
+    /// <param name="filePath">  </param>
     /// <returns></returns>
     public static string GetFileText(string filePath)
     {
@@ -29,7 +52,7 @@ public class IOUtil
 
     #region CreateTextFile 创建文本文件
     /// <summary>
-    /// 创建文本文件
+    /// 创建文本文件的同时传入   自定义的文本内容
     /// </summary>
     /// <param name="filePath"></param>
     /// <param name="content"></param>
