@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using System.Collections;
 using System.IO;
@@ -13,6 +12,9 @@ public class IOUtil
     /// <returns></returns>
     public static string GetFileName(string path)
     {
+        // 这句代码也可以啊
+        //  System.IO.Path.GetDirectoryName(path);
+        //    System.IO.Path.GetFileName(path);
         string fileName = path;
         int lastIndex = path.LastIndexOf('/');
         if (lastIndex > -1)
@@ -20,7 +22,7 @@ public class IOUtil
             fileName = fileName.Substring(lastIndex + 1);
         }
 
-    lastIndex = fileName.LastIndexOf('.');
+        lastIndex = fileName.LastIndexOf('.');
         if (lastIndex > -1)
         {
             fileName = fileName.Substring(0, lastIndex);
@@ -47,10 +49,12 @@ public class IOUtil
         {
             content = sr.ReadToEnd();
         }
+
         return content;
     }
 
     #region CreateTextFile 创建文本文件
+
     /// <summary>
     /// 创建文本文件的同时传入   自定义的文本内容
     /// </summary>
@@ -68,9 +72,11 @@ public class IOUtil
             }
         }
     }
+
     #endregion
 
     #region DeleteFile 删除文件
+
     /// <summary>
     /// 删除文件
     /// </summary>
@@ -82,9 +88,11 @@ public class IOUtil
             File.Delete(filePath);
         }
     }
+
     #endregion
 
     #region CopyDirectory 拷贝文件夹
+
     /// <summary>
     /// 拷贝文件夹
     /// </summary>
@@ -98,7 +106,6 @@ public class IOUtil
             {
                 Directory.CreateDirectory(destDirName);
                 File.SetAttributes(destDirName, File.GetAttributes(sourceDirName));
-
             }
 
             if (destDirName[destDirName.Length - 1] != Path.DirectorySeparatorChar)
@@ -128,5 +135,6 @@ public class IOUtil
             throw ex;
         }
     }
+
     #endregion
 }
