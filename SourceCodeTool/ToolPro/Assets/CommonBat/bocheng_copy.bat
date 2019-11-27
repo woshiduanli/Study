@@ -1,7 +1,12 @@
 
-rd /s /q F:\ProjectqiPai\bocheng_client\bl_app_client\client\Assets\GameMain\Games\DZMJ
+:: 源文件
+set soureceDir=F:\ProjectqiPai\qipai5\bl_app_client\client\Assets\GameMain\Games\DZMJ\*
 
-md F:\ProjectqiPai\bocheng_client\bl_app_client\client\Assets\GameMain\Games\DZMJ
+set dirctionDir=F:\ProjectqiPai\bocheng_client\bl_app_client\client\Assets\GameMain\Games\DZMJ
+rd /s /q %dirctionDir%
+
+md %dirctionDir%
 
 
-XCOPY F:\ProjectqiPai\qipai5\bl_app_client\client\Assets\GameMain\Games\DZMJ\* F:\ProjectqiPai\bocheng_client\bl_app_client\client\Assets\GameMain\Games\DZMJ /s /e
+XCOPY %soureceDir% %dirctionDir% /s /e
+
