@@ -23,7 +23,7 @@ public static class MyXML
     /// Loads the xml.
     /// </summary>
     /// <returns>
-    /// The xml.
+    /// The  xml.
     /// </returns>
     /// <param name='filepath'>
     /// Filepath.
