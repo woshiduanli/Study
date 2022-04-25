@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T06:58:09.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="_5a7G8o5NUkdja6dpGxj" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T07:52:19.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="dff7lo6vqxwk0YZp0Hcs" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,8 +111,8 @@
         <mxCell id="ho8SotT0t5mvhYLobg8B-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQ3uLvB0-VMOLrYaWf_j-20" target="uQ3uLvB0-VMOLrYaWf_j-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQ3uLvB0-VMOLrYaWf_j-20" value="5 申请批准逮捕（公法）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-280" y="502" width="109" height="30" as="geometry" />
+        <mxCell id="uQ3uLvB0-VMOLrYaWf_j-20" value="5 申请批准逮捕（公申请，检法都可决定逮捕）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-310" y="496" width="139" height="42" as="geometry" />
         </mxCell>
         <mxCell id="uQ3uLvB0-VMOLrYaWf_j-22" value="逮捕条件（证据，有期，危险）， 漏人要求或建议" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="32.5" y="828" width="121" height="40" as="geometry" />
@@ -131,6 +131,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ho8SotT0t5mvhYLobg8B-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQ3uLvB0-VMOLrYaWf_j-31" target="ho8SotT0t5mvhYLobg8B-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WzaM0_-w0Mm2EgflC8pY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQ3uLvB0-VMOLrYaWf_j-31" target="WzaM0_-w0Mm2EgflC8pY-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uQ3uLvB0-VMOLrYaWf_j-31" value="无罪等，变更或释放" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -288,6 +291,9 @@
         </mxCell>
         <mxCell id="WzaM0_-w0Mm2EgflC8pY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.689;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rNd7bi2sPKtid_-uwFBT-9" target="rNd7bi2sPKtid_-uwFBT-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WzaM0_-w0Mm2EgflC8pY-14" value="免处罚，非监禁，超期限，不包括（病孕）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="348.5" y="573" width="131.5" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
