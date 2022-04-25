@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T02:29:01.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Q1bFhxi9AW_C7AJHNW9d" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T02:29:48.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Tzwk1_St9b4v4bXRkeL5" version="17.4.6" type="github">
   <diagram id="BZ2E0RwBYQuoU7Bo7fhe" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UNQCi4sYF9-EmHNJe_OH-1" value="得到的3の3&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="UNQCi4sYF9-EmHNJe_OH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNQCi4sYF9-EmHNJe_OH-2" target="UNQCi4sYF9-EmHNJe_OH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNQCi4sYF9-EmHNJe_OH-2" value="启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UNQCi4sYF9-EmHNJe_OH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
