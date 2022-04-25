@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T05:17:23.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="3VX_QAwGT0if7jxhrBdv" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T05:23:28.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="8LdTDdBv6_Ky30SjAUSm" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2605" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
         <mxCell id="ho8SotT0t5mvhYLobg8B-88" value="管制拘役附加刑， 有期病孕无危险，期限届满未办结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-285" y="1530" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ho8SotT0t5mvhYLobg8B-90" value="符合取保但没人没钱， 符合逮捕，但病孕唯特届" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ho8SotT0t5mvhYLobg8B-90" value="符合取保但没人没钱， 符合逮捕，但病孕唯特届（不包括盲精未）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-285" y="2032" width="111" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ho8SotT0t5mvhYLobg8B-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.333;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uQ3uLvB0-VMOLrYaWf_j-14" target="uQ3uLvB0-VMOLrYaWf_j-14">
