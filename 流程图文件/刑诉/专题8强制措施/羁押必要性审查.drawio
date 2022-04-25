@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T03:53:45.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ZcYFZsQTX7H1tYd7buVM" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T03:59:22.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qktvnBKN1s7hA-3d8_T2" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,68 @@
         </mxCell>
         <mxCell id="uQ3uLvB0-VMOLrYaWf_j-31" value="无罪等，变更或释放" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="509.5" y="600" width="110.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-6" target="ho8SotT0t5mvhYLobg8B-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-6" value="符合取保条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="1430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-9" target="ho8SotT0t5mvhYLobg8B-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-9" target="ho8SotT0t5mvhYLobg8B-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-9" target="ho8SotT0t5mvhYLobg8B-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-9" value="取保程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123" y="1430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-13" value="取保义务和时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-20" value="钱或人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123" y="1540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-22" value="公安" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123" y="1320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-25" target="ho8SotT0t5mvhYLobg8B-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-25" value="符合取保条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-177" y="1690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-29" target="ho8SotT0t5mvhYLobg8B-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-29" target="ho8SotT0t5mvhYLobg8B-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-29" target="ho8SotT0t5mvhYLobg8B-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-29" value="取保程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-14" y="1690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-30" value="取保义务和时间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123" y="1690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-31" value="钱或人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-14" y="1800" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-32" value="公安" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-14" y="1580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-33" target="ho8SotT0t5mvhYLobg8B-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ho8SotT0t5mvhYLobg8B-33" value="符合取保条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="1420" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
