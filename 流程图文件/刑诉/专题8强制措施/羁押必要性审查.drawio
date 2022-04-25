@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:54:13.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qfyagqzP145F5hlTGchk" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T10:00:03.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="-Fgv1rhdAoWfDcSI5NyJ" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rNd7bi2sPKtid_-uwFBT-13" value="应当建议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="1185" width="80" height="20" as="geometry" />
+          <mxGeometry x="310" y="1184" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rNd7bi2sPKtid_-uwFBT-17" value="10后，纠正意见" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="1185" width="100" height="20" as="geometry" />
+          <mxGeometry x="470" y="1184" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzaM0_-w0Mm2EgflC8pY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rNd7bi2sPKtid_-uwFBT-24" target="rNd7bi2sPKtid_-uwFBT-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -285,17 +285,28 @@
         <mxCell id="ho8SotT0t5mvhYLobg8B-108" value="公检决定，公执行" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-100" y="14" width="67" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="8345fjDd0L2eIpo4BSlN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ho8SotT0t5mvhYLobg8B-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.25" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ho8SotT0t5mvhYLobg8B-112" value="变更要通知检察院" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="359" y="765" width="110.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WzaM0_-w0Mm2EgflC8pY-1" value="可以建议：预小从过防初一，老病担孕认唯一" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="1070" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="1070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WzaM0_-w0Mm2EgflC8pY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.689;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rNd7bi2sPKtid_-uwFBT-9" target="rNd7bi2sPKtid_-uwFBT-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8345fjDd0L2eIpo4BSlN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WzaM0_-w0Mm2EgflC8pY-14" target="8345fjDd0L2eIpo4BSlN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WzaM0_-w0Mm2EgflC8pY-14" value="免处罚，非监禁，超期限，不包括（病孕）" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="348.5" y="573" width="131.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="8345fjDd0L2eIpo4BSlN-0" value="&lt;font color=&quot;#ff0000&quot;&gt;出图&lt;/font&gt;&lt;font color=&quot;#3333ff&quot;&gt;：时间到了&lt;br&gt;你可以放我出去了&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="359" y="514" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
