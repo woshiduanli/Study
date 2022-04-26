@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T07:54:14.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Q8wAwQjKN8ffV-qUZsz-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T08:28:41.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="M_5O6Xf8ENHH9yoniFSR" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-67" value="&lt;font color=&quot;#0000ff&quot;&gt;1 复印件一定无效&lt;br&gt;&lt;br&gt;2 无行为能力人进入票据链，&lt;br&gt;不承担责任（无行能力人出了货，&lt;br&gt;出了票，只是不承担票据责任而已）， &lt;br&gt;其它人有效&lt;br&gt;3 强大的追索权：：：被追索后，可代为继续追索。&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-410" y="595" width="290" height="100" as="geometry" />
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-67" value="&lt;font color=&quot;#0000ff&quot;&gt;1 复印件一定无效&lt;br&gt;&lt;br&gt;2 无行为能力人进入票据链，&lt;br&gt;不承担责任（无行能力人出了货，&lt;br&gt;出了票，只是不承担票据责任而已）， &lt;br&gt;其它人有效&lt;br&gt;3 强大的追索权（必需证明）：：：被追索后，可代为继续追索。&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-445" y="595" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-68" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-580" y="230" width="740" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-27" value="丢失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-68">
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-27" value="丢失" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-68">
           <mxGeometry y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-31" value="挂失（3日有效）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-68">
@@ -45,7 +45,7 @@
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1W6hO_IQ1WP4Lny8uRmG-68" source="1W6hO_IQ1WP4Lny8uRmG-57" target="1W6hO_IQ1WP4Lny8uRmG-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-61" value="别人有票据主张，&lt;font color=&quot;#ff0080&quot;&gt;裁定终结&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-68">
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-61" value="别人有票据主张，&lt;font color=&quot;#ff0080&quot;&gt;裁定终结， &lt;/font&gt;&lt;font color=&quot;#000033&quot;&gt;票恢复效力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-68">
           <mxGeometry x="610" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1W6hO_IQ1WP4Lny8uRmG-68" source="1W6hO_IQ1WP4Lny8uRmG-57" target="1W6hO_IQ1WP4Lny8uRmG-61">
@@ -75,7 +75,7 @@
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1W6hO_IQ1WP4Lny8uRmG-69" source="1W6hO_IQ1WP4Lny8uRmG-2" target="1W6hO_IQ1WP4Lny8uRmG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-13" value="附条件票无效&lt;br&gt;不的转让，票有效，后手转让无效" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-69">
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-13" value="&lt;font color=&quot;#0000ff&quot;&gt;1&lt;/font&gt; 附条件票无效&lt;br&gt;&lt;font color=&quot;#0000ff&quot;&gt;2 &lt;/font&gt;不的转让，票有效，后手转让无效" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1W6hO_IQ1WP4Lny8uRmG-69">
           <mxGeometry y="240" width="146.54867256637166" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1W6hO_IQ1WP4Lny8uRmG-69" source="1W6hO_IQ1WP4Lny8uRmG-0" target="1W6hO_IQ1WP4Lny8uRmG-13">
@@ -103,6 +103,15 @@
           <mxGeometry x="525.1327433628318" width="158.76106194690263" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1W6hO_IQ1WP4Lny8uRmG-69" source="1W6hO_IQ1WP4Lny8uRmG-6" target="1W6hO_IQ1WP4Lny8uRmG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-72" value="看了一眼是连续的，写了三句话，附条件，禁止转让，900元变900万&lt;br&gt;向做两个行为，期后背书，赠送，然后被偷。&lt;br&gt;眼睛1 ，书写3 ，行为2 ，被偷1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-380" y="130" width="380" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-73" value="原票据失效。判决书行权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1W6hO_IQ1WP4Lny8uRmG-59" target="1W6hO_IQ1WP4Lny8uRmG-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
