@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T08:57:44.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="xhoo7iPqhTdAxYVFHven" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T09:03:24.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="aT7V1Eu19ZS-OADCPjNo" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1W6hO_IQ1WP4Lny8uRmG-68" source="1W6hO_IQ1WP4Lny8uRmG-57" target="1W6hO_IQ1WP4Lny8uRmG-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-65" value="担保被拒，直接告出票人和银行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1W6hO_IQ1WP4Lny8uRmG-68" vertex="1">
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-65" value="可担保也可直接告付款义务人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1W6hO_IQ1WP4Lny8uRmG-68" vertex="1">
           <mxGeometry x="415" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" parent="1W6hO_IQ1WP4Lny8uRmG-68" source="1W6hO_IQ1WP4Lny8uRmG-51" target="1W6hO_IQ1WP4Lny8uRmG-65" edge="1">
