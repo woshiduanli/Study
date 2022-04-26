@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T07:43:56.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="lRJf5AlOtxQQrm9ERxZ9" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T07:46:05.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="4V_4MKG7DWTF-egNFHpO" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-67" value="&lt;font color=&quot;#0000ff&quot;&gt;1 复印件一定无效&lt;br&gt;2 无行为能力人进入票据链，不承担责任&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-340" y="690" width="230" height="30" as="geometry" />
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-67" value="&lt;font color=&quot;#0000ff&quot;&gt;1 复印件一定无效&lt;br&gt;&lt;br&gt;2 无行为能力人进入票据链，&lt;br&gt;不承担责任（无行能力人出了货，&lt;br&gt;出了票，只是不承担票据责任而已）， &lt;br&gt;其它人有效&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-375" y="600" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-68" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-580" y="230" width="740" height="300" as="geometry" />
