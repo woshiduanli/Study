@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T00:39:45.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="17.4.6" etag="zH5l-wAqyKUCKy6Pz_th" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T01:12:19.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="NSoJAZuAJxDFOeg4PtYU" version="17.4.6" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2249" dy="-463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-8" target="6ATLaI5SrHldNCRjDbBM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-8" value="立案职权和申请（举报，控告，保案）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-290" y="1424" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-12" target="6ATLaI5SrHldNCRjDbBM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-12" value="初查（手段考点）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="96" y="1428" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-18" target="6ATLaI5SrHldNCRjDbBM-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="1458" as="sourcePoint" />
+            <mxPoint x="123" y="1462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-18" value="公检法必须接受，按需移送" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="1429" width="120" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF3399;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-41" target="6ATLaI5SrHldNCRjDbBM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-51" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1278" width="265" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-16" value="立案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-51">
+          <mxGeometry x="5" y="86" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-36" value="检异议依次说理通知纠正协商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-51">
+          <mxGeometry width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-51" source="6ATLaI5SrHldNCRjDbBM-16" target="6ATLaI5SrHldNCRjDbBM-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-52" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="1490" width="530" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-41" value="不立案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-52">
+          <mxGeometry x="260" width="120.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-46" value="" style="group" vertex="1" connectable="0" parent="6ATLaI5SrHldNCRjDbBM-52">
+          <mxGeometry y="70" width="329" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-37" value="公异议复议复核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-46">
+          <mxGeometry x="229" y="161" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-45" value="" style="group" vertex="1" connectable="0" parent="6ATLaI5SrHldNCRjDbBM-46">
+          <mxGeometry width="329" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-15" value="公不立案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-45">
+          <mxGeometry x="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-23" value="检异议依次要求说理通知纠正协商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-45">
+          <mxGeometry x="229" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-45" source="6ATLaI5SrHldNCRjDbBM-15" target="6ATLaI5SrHldNCRjDbBM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-29" value="&lt;font color=&quot;#ff3399&quot;&gt;控告人&lt;/font&gt;公复议复核，监监督，法自诉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-45">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-45" source="6ATLaI5SrHldNCRjDbBM-15" target="6ATLaI5SrHldNCRjDbBM-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-30" value="行政只复议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-45">
+          <mxGeometry x="130" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-45" source="6ATLaI5SrHldNCRjDbBM-15" target="6ATLaI5SrHldNCRjDbBM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-46" source="6ATLaI5SrHldNCRjDbBM-23" target="6ATLaI5SrHldNCRjDbBM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3399;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-52" source="6ATLaI5SrHldNCRjDbBM-41" target="6ATLaI5SrHldNCRjDbBM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-47" value="检自侦不立案（建议后老大）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6ATLaI5SrHldNCRjDbBM-52">
+          <mxGeometry x="440" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;" edge="1" parent="6ATLaI5SrHldNCRjDbBM-52" source="6ATLaI5SrHldNCRjDbBM-41" target="6ATLaI5SrHldNCRjDbBM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-53" value="&lt;font color=&quot;#0000ff&quot;&gt;错题集：：1 100元的老年卷，可以不立案。&lt;br&gt;2 如果已经立案侦查，之后只能自诉&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3399;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-305" y="1475" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-39" value="3月后立案监督案件催办函" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1288" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-16" target="6ATLaI5SrHldNCRjDbBM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-57" value="侦查后，撤案，控告人只自诉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1436" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATLaI5SrHldNCRjDbBM-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6ATLaI5SrHldNCRjDbBM-16" target="6ATLaI5SrHldNCRjDbBM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
