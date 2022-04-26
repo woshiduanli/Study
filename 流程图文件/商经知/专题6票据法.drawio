@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T08:28:41.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="M_5O6Xf8ENHH9yoniFSR" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T08:29:27.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="wG18XaC-GjcZC-nyTp0V" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-72" value="看了一眼是连续的，写了三句话，附条件，禁止转让，900元变900万&lt;br&gt;向做两个行为，期后背书，赠送，然后被偷。&lt;br&gt;眼睛1 ，书写3 ，行为2 ，被偷1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-380" y="130" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-73" value="原票据失效。判决书行权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1W6hO_IQ1WP4Lny8uRmG-73" value="原票据&lt;font color=&quot;#ff0080&quot;&gt;失效，&lt;/font&gt;判决书行权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="300" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1W6hO_IQ1WP4Lny8uRmG-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1W6hO_IQ1WP4Lny8uRmG-59" target="1W6hO_IQ1WP4Lny8uRmG-73">
