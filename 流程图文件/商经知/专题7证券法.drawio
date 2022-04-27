@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T05:18:14.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ouatEDDQY6fgCJl9EzQX" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T05:22:25.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="q8-F6PCutrC64NDqhVp4" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3327" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-100" value="信息披露" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1120" y="180" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-102" value="义务：简洁，同时，自愿，吹牛上税，出临时报告。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1330" y="110" width="107" height="40" as="geometry" />
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-102" value="披露要求：简洁，同时，自愿，吹牛上税，出临时报告。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1340" y="100" width="117" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-103" target="gxBk6NtYpcpW8_uY6UVW-109">
           <mxGeometry relative="1" as="geometry" />
@@ -79,11 +79,8 @@
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-103" target="gxBk6NtYpcpW8_uY6UVW-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-103" value="责任" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1320" y="240" width="97" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-103" target="gxBk6NtYpcpW8_uY6UVW-103">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-103" value="违反披露的法律责任" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1330" y="240" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-107" value="行政责任&lt;br&gt;(10,100)&lt;br&gt;(100,1000 )&amp;nbsp; (200.2000)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1550" y="280" width="137" height="50" as="geometry" />
