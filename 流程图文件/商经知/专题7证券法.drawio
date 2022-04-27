@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T04:12:10.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="TF8GDgr9-DcFmPo9tf64" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T04:16:48.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="SA3qppO4pCuZrExVAL2m" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="-800" y="-630" width="146.54867256637166" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-21" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-590" y="-690" width="265" height="360" as="geometry" />
+          <mxGeometry x="-590" y="-690" width="285" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-21" source="gxBk6NtYpcpW8_uY6UVW-16" target="gxBk6NtYpcpW8_uY6UVW-18">
           <mxGeometry relative="1" as="geometry" />
@@ -37,14 +37,17 @@
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-16" value="买股的投资机构很多" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
           <mxGeometry x="-10" y="145" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-17" value="投保机构" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
-          <mxGeometry x="174" y="-1" width="90" height="30" as="geometry" />
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-21" source="gxBk6NtYpcpW8_uY6UVW-17" target="gxBk6NtYpcpW8_uY6UVW-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-35" value="代表人诉讼" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
-          <mxGeometry x="175" y="305" width="90" height="30" as="geometry" />
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-17" value="（公家的组织）投保机构" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
+          <mxGeometry x="160" y="-10" width="104" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-18" value="债权受托管理人（可变更）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
-          <mxGeometry x="155" y="140" width="130" height="50" as="geometry" />
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-35" value="（直接干）代表人诉讼" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
+          <mxGeometry x="190" y="290" width="83" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-18" value="（自己的组织）债权受托管理人（可变更）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-21">
+          <mxGeometry x="170" y="145" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="gxBk6NtYpcpW8_uY6UVW-17" target="gxBk6NtYpcpW8_uY6UVW-27" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -57,36 +60,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-27" value="公开征集" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-240" y="-752" width="90" height="30" as="geometry" />
+          <mxGeometry x="-240" y="-760" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-28" value="先行赔付，代位诉讼， 不受限制" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-28" value="先行赔付，代位诉讼， 调解，不受限制" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-245" y="-641" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-27" target="gxBk6NtYpcpW8_uY6UVW-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-33" value="代位诉讼" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-229" y="-550" width="130" height="50" as="geometry" />
+          <mxGeometry x="-245" y="-545" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-18" target="gxBk6NtYpcpW8_uY6UVW-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-48" value="1人牵头，投保机构牵头。" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-245" y="-385" width="90" height="30" as="geometry" />
+          <mxGeometry x="-245" y="-404" width="95" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-35" target="gxBk6NtYpcpW8_uY6UVW-48">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-450" y="-370" as="sourcePoint" />
-            <mxPoint x="-150" y="-370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-390" y="-860" />
-              <mxPoint x="40" y="-860" />
-              <mxPoint x="80" y="-400" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
