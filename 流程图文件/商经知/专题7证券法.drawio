@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T05:17:38.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="QPG_ia8AiufY0C5vy9tV" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T05:18:14.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ouatEDDQY6fgCJl9EzQX" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3327" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,25 +38,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-71" value="大财团收购公司" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="-120" width="100" height="40" as="geometry" />
+          <mxGeometry x="-300" y="-152" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-72" value="预警" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-142" y="-205" width="100" height="40" as="geometry" />
+          <mxGeometry x="-142" y="-237" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-74" value="要约收购" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-142" y="-45" width="100" height="40" as="geometry" />
+          <mxGeometry x="-142" y="-77" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-84" value="发行条件&lt;br&gt;（3+3+健康经营（出图：两个山中间， 经营了一家健身房）&amp;nbsp; ）&lt;br&gt;+发行方式 &lt;br&gt;（ 健身房，要开起来，带200个小弟注册，然后打广告&amp;nbsp; &amp;nbsp;）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1003.45" y="-120" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-89" value="&lt;font color=&quot;#ff3399&quot;&gt;山&lt;/font&gt;上的 &lt;font color=&quot;#ff0080&quot;&gt;山路&lt;/font&gt;边，三上优雅跳&lt;font color=&quot;#ff0080&quot;&gt;舞&lt;/font&gt;&lt;br&gt;，一人看不惯他，直接拿&lt;font color=&quot;#ff0080&quot;&gt;铅笔&lt;/font&gt;戳死他。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-200" y="-250" width="220" height="30" as="geometry" />
+          <mxGeometry x="-200" y="-282" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-90" value="&lt;font color=&quot;#1a1a1a&quot;&gt;董建凯开&lt;/font&gt;物流&lt;font color=&quot;#1a1a1a&quot;&gt;公司，赚到小股东的钱， &lt;/font&gt;归公司" style="text;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1170" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-91" value="&lt;font color=&quot;#330033&quot;&gt;30汽车，有个&lt;/font&gt;精灵&lt;font color=&quot;#330033&quot;&gt;，&lt;/font&gt;腰包&lt;font color=&quot;#330033&quot;&gt;里，掏出100元&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#FF0080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-205" y="5" width="230" height="20" as="geometry" />
+          <mxGeometry x="-205" y="-27" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-96" value="内部人员义务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1120" y="25" width="97" height="40" as="geometry" />
@@ -94,81 +94,8 @@
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.505;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-109" target="gxBk6NtYpcpW8_uY6UVW-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-142" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-800" y="-760" width="666" height="405" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-0" value="投资者去买股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry y="215" width="146.54867256637166" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-3" value="自己义务，他人义务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry y="310" width="146.54867256637166" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-0" target="gxBk6NtYpcpW8_uY6UVW-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-5" value="纠纷：1 证券公司推定过 2 证券公司不拒绝投保机构调解" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry y="130" width="146.54867256637166" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-0" target="gxBk6NtYpcpW8_uY6UVW-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-27" value="公开征集" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="560" width="90" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-28" value="先行赔付，代位诉讼， 调解，不受限制" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="555" y="119" width="100" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-27" target="gxBk6NtYpcpW8_uY6UVW-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-33" value="代位诉讼" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="555" y="215" width="111" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-18" target="gxBk6NtYpcpW8_uY6UVW-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-48" value="1&amp;nbsp; 1人牵头2 投保机构牵头。" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="558" y="355" width="95" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-35" target="gxBk6NtYpcpW8_uY6UVW-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-16" value="买股的投资机构很多" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="202" y="215" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-0" target="gxBk6NtYpcpW8_uY6UVW-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-17" value="（公家的组织）投保机构" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="387" y="60" width="104" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="gxBk6NtYpcpW8_uY6UVW-17" target="gxBk6NtYpcpW8_uY6UVW-27" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="50" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="gxBk6NtYpcpW8_uY6UVW-17" target="gxBk6NtYpcpW8_uY6UVW-28" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="55" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-16" target="gxBk6NtYpcpW8_uY6UVW-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-35" value="（直接干）代表人诉讼" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="390" y="350" width="95" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-16" target="gxBk6NtYpcpW8_uY6UVW-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-18" value="（自己的组织）债权受托管理人（可变更）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-142">
-          <mxGeometry x="382" y="215" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gxBk6NtYpcpW8_uY6UVW-142" source="gxBk6NtYpcpW8_uY6UVW-16" target="gxBk6NtYpcpW8_uY6UVW-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-143" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-300" y="80" width="666" height="405" as="geometry" />
+          <mxGeometry x="-300" y="30" width="666" height="405" as="geometry" />
         </mxCell>
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-144" value="小投资者去买股" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="gxBk6NtYpcpW8_uY6UVW-143">
           <mxGeometry y="215" width="146.54867256637166" height="40" as="geometry" />
@@ -246,7 +173,7 @@
         <mxCell id="gxBk6NtYpcpW8_uY6UVW-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF0080;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gxBk6NtYpcpW8_uY6UVW-167" target="gxBk6NtYpcpW8_uY6UVW-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gxBk6NtYpcpW8_uY6UVW-167" value="发行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gxBk6NtYpcpW8_uY6UVW-167" value="购买" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-560" y="25" width="102" height="40" as="geometry" />
         </mxCell>
       </root>
